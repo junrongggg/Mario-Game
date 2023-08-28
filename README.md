@@ -9,4 +9,4 @@ A mario inspired game created with javascript programming.
 * CSS
 * P5.js library
 
-
+### To run, simply download the folder to your code editor and open the index.html file with a live browser extension.
